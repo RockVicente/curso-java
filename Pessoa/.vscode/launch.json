@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestePessoa",
+            "request": "launch",
+            "mainClass": "TestePessoa",
+            "projectName": "Pessoa_6d937ff3"
+        },
+        "version",
+        "configurations",
+        "type",
+        "request",
+        "program",
+        "MIMode",
+        "miDebuggerPath",
+        "setupCommands",
+        "text",
+        "ignoreFailures",
+        {
+            "description": "Set Disassembly Flavor to Intel",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+        }
+    ]
+}

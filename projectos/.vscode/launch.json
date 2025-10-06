@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SuperCalculadora",
+            "request": "launch",
+            "mainClass": "SuperCalculadora",
+            "projectName": "projectos_6b34f311"
+        },
+        {
+            "type": "java",
+            "name": "Arredondamentos",
+            "request": "launch",
+            "mainClass": "Arredondamentos",
+            "projectName": "projectos_6b34f311"
+        },
+        "version",
+        "configurations",
+        "type",
+        "request",
+        "program",
+        "MIMode",
+        "miDebuggerPath",
+        "setupCommands",
+        "text",
+        "ignoreFailures",
+        {
+            "description": "Set Disassembly Flavor to Intel",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+        }
+    ]
+}

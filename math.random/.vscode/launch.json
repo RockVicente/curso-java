@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NumAleatorio",
+            "request": "launch",
+            "mainClass": "NumAleatorio",
+            "projectName": "math.random_4adf41bd"
+        },
+        "version",
+        "configurations",
+        "type",
+        "request",
+        "program",
+        "MIMode",
+        "miDebuggerPath",
+        "setupCommands",
+        "text",
+        "ignoreFailures",
+        {
+            "description": "Set Disassembly Flavor to Intel",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+        }
+    ]
+}

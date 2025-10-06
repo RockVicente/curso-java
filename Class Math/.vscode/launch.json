@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "Classes",
+            "projectName": "Class Math_d2cf571c"
+        },
+        "version",
+        "configurations",
+        "type",
+        "request",
+        "program",
+        "MIMode",
+        "miDebuggerPath",
+        "setupCommands",
+        "text",
+        "ignoreFailures",
+        {
+            "description": "Set Disassembly Flavor to Intel",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+        }
+    ]
+}

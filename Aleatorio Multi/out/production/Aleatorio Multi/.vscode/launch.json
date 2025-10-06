@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AleatorioMulti",
+            "request": "launch",
+            "mainClass": "AleatorioMulti",
+            "projectName": "Aleatorio Multi_dd623cc3"
+        },
+        "version",
+        "configurations",
+        "type",
+        "request",
+        "program",
+        "MIMode",
+        "miDebuggerPath",
+        "setupCommands",
+        "text",
+        "ignoreFailures",
+        {
+            "description": "Set Disassembly Flavor to Intel",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+        }
+    ]
+}
