@@ -117,10 +117,10 @@ public class VerificarVoto extends javax.swing.JFrame {
         lblIdadeShow.setText("Idade " + idade);
         
         if(idade < 18){
-            lblRes.setText("Nao pode Votar");
+            lblRes.setText("Nao Vota");
         }else if(idade >= 18 && idade < 70){
-            lblRes.setText("Pode Votar");
-        }else if(idade >= 70){
+            lblRes.setText("Voto obrigatorio");
+        }else {
             lblRes.setText("Voto Opcional");
         }
     }//GEN-LAST:event_btnVerfyActionPerformed
