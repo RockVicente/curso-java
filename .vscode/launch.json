@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Vetor01",
+            "request": "launch",
+            "mainClass": "Vetor01",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "TesteDeTelas",
             "request": "launch",
             "mainClass": "TesteDeTelas",
